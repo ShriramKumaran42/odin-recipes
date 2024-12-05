@@ -1,0 +1,25 @@
+body {
+    background-color: beige;
+
+}
+
+h1{
+    font-size: xx-large;
+    color: brown;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+
+}
+
+.desc{
+    text-align: center;
+}
+

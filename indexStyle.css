@@ -1,0 +1,36 @@
+*{
+    background-color: beige;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
+    font-size: 80px;
+   text-align: center;
+   color: brown;
+   
+}
+div.header{
+   padding: 10px;
+   margin: auto;
+   
+   
+   /* box-sizing: border-box; */
+}
+
+h2 {
+    font-size: xx-large;
+   font-weight: 1000;
+   text-align: center; 
+   
+}
+p {
+    font-size: 20px;
+    text-align: center;
+}
+div.contain{
+    text-align: center;
+    font-size: xx-large;
+}
+ul.ul1{
+    display: inline-block;
+}
